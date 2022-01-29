@@ -1,0 +1,3 @@
+# iChat
+
+### Architecture ```Client-Server```
