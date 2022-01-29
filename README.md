@@ -1,3 +1,4 @@
 # iChat
 
-### Architecture ```Client-Server```
+#### Architecture
+```Client-Server```
